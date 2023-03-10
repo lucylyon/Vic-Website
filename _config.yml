@@ -4,7 +4,7 @@ title: "Happy Anniversary!"
 description: "Happy 1 Year Anniversary!!"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /jekyll-theme-memoirs
+# baseurl: 
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
 include: ["_pages"]
