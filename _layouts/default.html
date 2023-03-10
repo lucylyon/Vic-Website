@@ -6,7 +6,7 @@
 
 <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.png">
 
-<title>{{ page.title }} | {{site.name}}</title>
+<title> {{site.name}}</title>
 
 {% seo %}
     
@@ -41,7 +41,7 @@
 <!-- Begin Sidebar Navigation
 ================================================== -->
 
-<div class="sidebar">    
+<!-- <div class="sidebar">    
 </div>   
 <div class="nav-icon">
     <div class="hamburger-bar"></div>
@@ -58,13 +58,16 @@
     </ul>   
 </nav>
 
-{% include search-lunr.html %}
+{% include search-lunr.html %} -->
 
 
 <!-- End Sidebar Navigation
 ================================================== -->
 
-<div class="site-content {% if page.url == '/' %} firstpage {% endif %}">
+<div class="site-content {% if page.url == '/' %}  {% endif %}">
+<!-- <div class="site-content {% if page.url == '/' %} firstpage {% endif %}"> -->
+    <!-- this is where first page was -->
+
 
 <div class="container">
 
@@ -90,19 +93,7 @@
         {{ content }}
     </div>
 
-    {% if site.mailchimp-list %}
-    <!-- Newsletter
-    ================================================== -->
-    <div class="newsletter text-center">
-        <span class="h4"><img src="{{ site.baseurl }}/{{ site.logo }}" class="newsletter-logo" alt="{{site.title}}"> &nbsp; Never miss a <b>story</b> from us, subscribe to our newsletter</span>
-        <form action="{{site.mailchimp-list}}" method="post" name="mc-embedded-subscribe-form" class="wj-contact-form validate" target="_blank" novalidate>
-            <div class="mc-field-group d-inline-flex">
-            <input type="email" placeholder="Your e-mail" name="EMAIL" class="required email" id="mce-EMAIL" autocomplete="on" required>
-            <input type="submit" value="Subscribe" name="subscribe" class="heart">
-            </div>
-        </form>
-    </div>
-    {% endif %}
+
     
 </div>
 
