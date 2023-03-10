@@ -1,7 +1,10 @@
 ---
 layout: post
-title:  "Valentines"
+title:  "!Valentines"
 image: assets/images/valentines/flowers.jpg
 toc: false
 ---
-also: gift, year2 (flowers)
+
+assets/images/valentines/flowers.JPG
+assets/images/valentines/gift.JPG
+assets/images/valentines/year2.JPG
