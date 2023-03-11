@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "! (1)Powerpoint Party"
+title:  "Powerpoint Party"
 image: assets/images/powerpoint/powerpoint.png
 toc: false
 ---
+FINISH WRITING
+
 around the time of playlist
 powerpoint about me - it was very cute
 i was worried i scared you off by telling you i didnt want you to present it
