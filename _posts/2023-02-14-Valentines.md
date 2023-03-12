@@ -4,20 +4,12 @@ title:  "Valentines"
 image: assets/images/valentines/year2.JPG
 toc: false
 ---
-FINISH WRITING
+Two valentine's together? Hell yea. Last year, I didn't know if I could get you things for Valentine's day because it was very new and we weren't official yet, and I didn't want to scare you away. But then you weren't feeling good so I decided fuck it, you deserve to be treated right, so I'm going to do it anyways. I was sitting in my car after I snuck in and dropped it off, and as I was about to leave, you came out with stuff for me!! It was so nice. I remember posting the flowers on my story as a suble flex of I have a pretty girl who got me flowers for valentines day. 
 
 <div class="row">
-<img src="/assets/images/valentines/flowers.JPG" width="170" height="220"  hspace="20" vspace="0">
-<img src="/assets/images/valentines/gift.JPG" width="170" height="220"  hspace="20" vspace="0">
-<img src="/assets/images/valentines/year2.JPG" width="200" height="250"  hspace="20" vspace="0">
+<img src="/assets/images/valentines/flowers.JPG" width="170" height="220"  hspace="25" vspace="0">
+<img src="/assets/images/valentines/gift.JPG" width="170" height="220"  hspace="25" vspace="0">
+<img src="/assets/images/valentines/year2.JPG" width="200" height="250"  hspace="25" vspace="0">
 </div>
 
-last year:
-didnt know if i could get you stuff bc it was very new
-was planning on getting you stuff the day after as like oh well i did it bc its on sale, to try to not seem too much
-you werent feeling good so i decided to get you stuff to make you feel better
-it was so cute bc i was sitting in my car about to leave and you walked out with stuff for me too. 
-Last year I didn't know if I could get you things because we were still very new, and I didn't want to scare you away
-
-I got that Reeces cookie thing, but it expired before we could make it!! Boo!
-But I got one this year and we got to make it! Even though I kinda took over and did it when it was supposed to be yours. But I hope you still enjoyed it. And we got to make a second one because you saved the pan from last year, and you had cookie dough in your freezer! You are so prepared. 
+This year was very nice too! I really hope you liked the letters, and I hope this isn't too similar. The crocs were super cute and I wear them a lot more than I expected, which is cool. And we finally got to make the Reece's cookie thing, since it expired last year before we could make it. It was so fun even though I kinda took over and did it when it was supposed to be yours. But I hope you still enjoyed it. And we got to make a second one because you saved the pan from last year, and you had cookie dough in your freezer! You are so prepared. 
