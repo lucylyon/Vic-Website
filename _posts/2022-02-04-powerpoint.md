@@ -4,14 +4,7 @@ title:  "Powerpoint Party"
 image: assets/images/powerpoint/powerpoint.png
 toc: false
 ---
-FINISH WRITING
+DONE
 
-around the time of playlist
-powerpoint about me - it was very cute
-i was worried i scared you off by telling you i didnt want you to present it
-i love it when im the center of attention with you, but other people are scary
-i didnt want you to take that as i thought it was weird - i very much did not
-you left early on in the party and i was sad bc i wanted to spend time with you and i wanted to take care of you and protect you, but i wasnt what you needed at the time
-i tried to give you space, but im so grateful i don't have to do that anymore. im glad you let me take care of you
-
-<p><img src="/assets/images/powerpoint/powerpoint.png" alt="Alternative Text" width="200" height="150" align="right" hspace="20" vspace="0"> here is where i talk about powerpoint party </p>
+You made such a cute PowerPoint about me, and I loved it so very much. I love it when I get to be the center of attention around you, but other people are scary, and I didn’t want them to think I was weird and conceited for telling you to make one about me.  <img src="/assets/images/powerpoint/powerpoint.png" alt="Alternative Text" width="200" height="200" align="right" hspace="20" vspace="20">  
+I was really worried I was going to scare you off by asking you not to show it. I didn’t want you to think I didn’t like it or thought it was weird, or that I didn’t like you. You left the party early and I was sad because I wanted to spend time with you, and I wanted to be able to take care of you and protect you. But that wasn’t what you needed at the time. I hated seeing you upset. I tried to give you space, but I’m so grateful that I don’t have to do that anymore. I’m glad you let me take care of you. 
